@@ -1,0 +1,11 @@
+Model Information:
+* title:	Auzrea Parking Final
+* source:	https://sketchfab.com/3d-models/auzrea-parking-final-f8cc7c78aa1e40fb832d05ec6733aa73
+* author:	MML0385 (https://sketchfab.com/MML0385)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Auzrea Parking Final" (https://sketchfab.com/3d-models/auzrea-parking-final-f8cc7c78aa1e40fb832d05ec6733aa73) by MML0385 (https://sketchfab.com/MML0385) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
